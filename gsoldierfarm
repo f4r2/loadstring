@@ -1,3 +1,4 @@
+repeat task.wait() until game:IsLoaded()
 getgenv().Debug = true
 getgenv().GoldenPerks = {"Soldier",}
 local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/banbuskox/dfhtyxvzexrxgfdzgzfdvfdz/main/ckmhjvskfkmsStratFun2", true))() 
